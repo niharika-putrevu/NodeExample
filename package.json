@@ -1,0 +1,22 @@
+{
+  "name": "sample_node_project",
+  "version": "1.0.0",
+  "description": "for open shift demo",
+  "main": "HelloWorld.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niharika-putrevu/OpenShiftDemo.git"
+  },
+  "author": "Niharika Putrevu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niharika-putrevu/OpenShiftDemo/issues"
+  },
+  "homepage": "https://github.com/niharika-putrevu/OpenShiftDemo#readme",
+  "dependencies": {
+    "http": "0.0.0"
+  }
+}
