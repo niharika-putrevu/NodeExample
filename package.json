@@ -4,7 +4,8 @@
   "description": "for open shift demo",
   "main": "HelloWorld.js",
   "scripts": {
-    "test": "npm test"
+    "test": "npm test",
+    "start": "npm HelloWorld.js"
   },
   "repository": {
     "type": "git",
